@@ -10,8 +10,7 @@ Hey! I'm **Kritagya**, a 16-year-old developer from India passionate about build
 - 🔭 I’m currently building projects in **Python** and exploring **Web Development**.
 - 🌱 I’m constantly learning new technologies and improving my coding skills.
 - 💬 Ask me about Python, HTML, or any project idea — I’m happy to help!
-- 🎯 My goal: become a skilled full-stack developer and build things that matter.
-- ⚡ Fun fact: I started coding at 15 and haven't stopped since.
+- 🎯 My goal: join Indian Air Force!
 - 💌 Deeply in love with someone.
 
 ---
