@@ -2,7 +2,7 @@
 
 # Kritagya Dubey 👋
 
-Hey! I'm **Kritagya**, a 16-year-old developer from India 🇮🇳 passionate about building cool stuff with code. I primarily work with **Python** 🐍 and **HTML/CSS** 🌐, and I love turning ideas into real projects. I'm always learning, always creating, and always pushing myself to get better. 💻✨
+Hey! I'm **Kritagya**, a 16-year-old developer from India passionate about building cool stuff with code. I primarily work with **Python** 🐍 and **HTML/CSS** 🌐, and I love turning ideas into real projects. I'm always learning, always creating, and always pushing myself to get better. I do coding as a side quest, I really want to make out in NDA ! 🇮🇳
 
 ---
 
@@ -12,6 +12,7 @@ Hey! I'm **Kritagya**, a 16-year-old developer from India 🇮🇳 passionate ab
 - 💬 Ask me about Python, HTML, or any project idea — I’m happy to help!
 - 🎯 My goal: become a skilled full-stack developer and build things that matter.
 - ⚡ Fun fact: I started coding at 15 and haven't stopped since.
+- 💌 Deeply in love with someone.
 
 ---
 
@@ -26,29 +27,43 @@ Hey! I'm **Kritagya**, a 16-year-old developer from India 🇮🇳 passionate ab
 
 ---
 
-## Pinned Projects 📌
+## Things I do 🤔
 
-| Project | Description |
-|---------|-------------|
-| **[Project 1](https://github.com/kritagyadubey)** | A project I built that I'm proud of |
-| **[Project 2](https://github.com/kritagyadubey)** | Another cool project from my journey |
-| **[Project 3](https://github.com/kritagyadubey)** | Something I'm actively working on |
-
-> Check out all my projects on my [GitHub Profile](https://github.com/kritagyadubey) ⭐
+```diff
+- Workout and Focus on fitness.
+- Sleep
+- Sleep again!
+- Eat (prolly)
+- Love a girl.....
+```
 
 ---
 
-## GitHub Stats 📊
+## Daily Dev Quote 💬
 
-<div align="center">
+> *"First, solve the problem. Then, write the code."* — John Johnson
 
-![Kritagya's GitHub stats](https://github-readme-stats.vercel.app/api?username=kritagyadubey&show_icons=true&theme=radical&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kritagyadubey&layout=compact&theme=radical&hide_border=true)
+## My Setup 💻
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=kritagyadubey&theme=radical&no-frame=true&no-bg=true&column=7)
+| Category | Tool |
+|----------|------|
+| **Language** | Python 🐍 |
+| **Frontend** | HTML/CSS 🌐 |
+| **Editor** | VS Code ⚡ |
+| **Version Control** | Git + GitHub 🔄 |
+| **OS** | Windows 🪟 |
 
-</div>
+---
+
+## Random Fun Facts 🎲
+
+- 🎂 I'm 16 and already building real projects
+- 🐍 Python was my first language — and still my favorite
+- 🌐 I believe every idea deserves a website
+- 💻 I code more than I sleep
+- 🎯 Goal: Build something that goes viral
 
 ---
 
