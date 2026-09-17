@@ -70,7 +70,7 @@ Hey! I'm **Kritagya**, a 16-year-old developer from India passionate about build
 
 ---
 
-### ⚡ *"I'm 16 and building cool stuff. Age is just a number, but code is forever."*
+### ⚡ *"Jack of all trades, Mastering All!"*
 
 ---
 
