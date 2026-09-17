@@ -70,7 +70,7 @@ Hey! I'm **Kritagya**, a 16-year-old developer from India passionate about build
 
 ---
 
-### ⚡ *"Jack of all trades, Mastering All!"*
+### 🫀 *"S"*
 
 ---
 
