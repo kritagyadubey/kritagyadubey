@@ -33,7 +33,6 @@ Hey! I'm **Kritagya**, a 16-year-old developer from India passionate about build
 - Sleep
 - Sleep again!
 - Eat (prolly)
-- Love a girl.....
 ```
 
 ---
