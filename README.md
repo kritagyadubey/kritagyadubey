@@ -38,9 +38,9 @@ Hey! I'm **Kritagya**, a 16-year-old developer from India passionate about build
 
 ---
 
-## Daily Dev Quote 💬
+## Thoughts 💬
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Jack of all trades, master of ALL!"* — Me Ofc
 
 ---
 
