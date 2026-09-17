@@ -55,13 +55,10 @@ Hey! I'm **Kritagya**, a 16-year-old developer from India passionate about build
 
 ---
 
-## Random Fun Facts 🎲
-
-- 🎂 I'm 16 and already building real projects
-- 🐍 Python was my first language — and still my favorite
-- 🌐 I believe every idea deserves a website
-- 💻 I code more than I sleep
-- 🎯 Goal: Build something that goes viral
+## Looked Cool
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
