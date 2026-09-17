@@ -29,10 +29,10 @@ Hey! I'm **Kritagya**, a 16-year-old developer from India passionate about build
 ## Things I do 🤔
 
 ```diff
-- Workout and Focus on fitness.
-- Sleep
-- Sleep again!
-- Eat (prolly)
++ Workout and Focus on fitness.
++ Sleep
++ Sleep again!
++ Eat (prolly)
 ```
 
 ---
