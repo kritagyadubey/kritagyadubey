@@ -76,3 +76,4 @@ Hey! I'm **Kritagya**... Check out my pinned projects..
 ![Visitors](https://komarev.com/ghpvc/?username=kritagyadubey&color=blueviolet&style=for-the-badge&label=PROFILE+VISITORS)
 
 **Made with ❤️ by Kritagya Dubey**
+<img src="https://urlto.me/1p3C">
