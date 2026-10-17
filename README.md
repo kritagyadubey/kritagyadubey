@@ -1,35 +1,68 @@
-![Dark terminal-style panel: a Python prompt reading "import kritagya" beside a large grey and blue K monogram](assets/hero.svg)
+![Dark terminal panel reading ">>> import kritagya" beside a grey and blue K monogram](assets/hero.svg)
 
-<h1 align="center">Kritagya</h1>
-
-<p align="center"><code>python</code> · still learning · building in public</p>
+<h1 align="center">Kritagya Dubey</h1>
 
 <p align="center">
-  I write Python — small tools that scratch an itch, experiments that teach me
-  something, and the occasional thing that actually works. Mostly self-taught,
-  usually a little out of my depth, and fine with that.
+  <b>Python developer.</b> I build small tools that fix everyday annoyances,<br>
+  and send fixes upstream to the open-source projects I rely on.
 </p>
 
 ---
 
+I'm self-taught and I learn by shipping: break it, read the traceback, fix it,
+repeat. Most of what I write starts as an irritation of my own — a downloads
+folder that nobody has ever seen twice the same way, a rename that needed
+sixty clicks, a clipboard that forgets everything the moment I close it.
+
+Everything here is MIT licensed, has tests, and has a README that tells you
+what it does **and what it doesn't**.
+
 ### Now
 
 - **Building** — small Python tools, one annoyance at a time
-- **Learning** — by shipping: break it, read the traceback, fix it, repeat
+- **Maintaining** — bug fixes upstream where the software I use has a gap
 - **Exploring** — HTML and CSS next to Python, and Git beyond `push`/`pull`
 
 ### Selected work
 
-- [**EzSort**](https://github.com/kritagyadubey/EzSort) — takes a messy folder and files everything into neat subfolders, from the command line or a desktop app
-- [**Easy Clipboard Manager**](https://github.com/kritagyadubey/Easy-Clipboard-Manager) — a local, privacy-first clipboard history for Windows
-- [**AI Prompt Vault**](https://github.com/kritagyadubey/AI-Prompt-Vault) — 162 prompt enhancers across 14 categories, MIT licensed
+| Project | What it is |
+|---------|------------|
+| [**EzSort**](https://github.com/kritagyadubey/EzSort) | Sorts a messy folder into categories — CLI and desktop app, zero dependencies, preview first, undo everything. |
+| [**EzRename**](https://github.com/kritagyadubey/EzRename) | Batch-renames files with a live preview and one-click undo. GUI and CLI for Windows. |
+| [**Easy Clipboard Manager**](https://github.com/kritagyadubey/Easy-Clipboard-Manager) | A local-first clipboard history for Windows. Search, snippets, global hotkey — nothing ever leaves your machine. |
+| [**TreeMark**](https://github.com/kritagyadubey/TreeMark) | Prints any project as a tree: plain, Markdown or emoji. Standard library only. `pip install treemark` |
+| [**awesome-tools**](https://github.com/kritagyadubey/awesome-tools) | A directory of 1,026 genuinely free, open-source and free-tier tools, with a searchable static web app. |
+| [**AI Prompt Vault**](https://github.com/kritagyadubey/AI-Prompt-Vault) | 162 prompt enhancers across 14 categories. Copy, paste, refine. |
 
-and the *Ez* series on the side — [EzRename](https://github.com/kritagyadubey/EzRename), [EzCleanup](https://github.com/kritagyadubey/EzCleanup) — same idea, smaller scope.
+### How I work
+
+- **Never surprise the user.** Preview before you act, and make every action
+  undoable. A file mover that deletes something once has lost forever.
+- **Ship the test with the fix.** A bug report is a test that hasn't been
+  written down yet.
+- **Write down the limits.** Every project has a *Known limitations* section,
+  because a README that only lists strengths is an advertisement.
+- **Small surface, no dependencies** where I can manage it — a tool that
+  installs in one line is a tool people actually try.
+
+### Contributing upstream
+
+I'd rather send the fix than file a complaint. These are open right now, each
+fixing an issue the maintainers already agreed was real:
+
+| Pull request | Fix |
+|--------------|-----|
+| [numpy/numpy-financial#167](https://github.com/numpy/numpy-financial/pull/167) | `fv` sized its output buffer from `rate` alone, so an integer rate truncated the result and made `ipmt`/`ppmt` raise on a 0% loan |
+| [arsenetar/dupeguru#1431](https://github.com/arsenetar/dupeguru/pull/1431) | Scanning a directory loop (Windows junction / symlink) blew the recursion limit — now walked iteratively with cycle detection |
+| [osmose-qa/osmose-backend#2838](https://github.com/osmose-qa/osmose-backend/pull/2838) | The unexpected-symbol check flagged emoji in free-text tags like `description`, not just in names |
+| [petercorke/bdsim#121](https://github.com/petercorke/bdsim/pull/121) | `oodebug` wrappers hid the real operator signatures from the generated API docs |
+| [mgedmin/dozer#22](https://github.com/mgedmin/dozer/pull/22) | Debug pages were served unauthenticated — added optional HTTP Basic auth with constant-time comparison |
 
 ```python
 # kritagya.py
-status = "still learning"
-tools_shipped = "a few"
+tools_shipped = 5
+fixes_upstream = 5
+status = "still learning, less than last year"
 ```
 
 ---
@@ -41,4 +74,4 @@ tools_shipped = "a few"
   </picture>
 </p>
 
-<p align="center">Still learning. If you're stuck on the same thing, say hi.</p>
+<p align="center">Still learning. If you're stuck on the same thing, <a href="https://github.com/kritagyadubey">say hi</a>.</p>
