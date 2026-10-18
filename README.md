@@ -11,11 +11,11 @@
 
 I'm self-taught and I learn by shipping: break it, read the traceback, fix it,
 repeat. Most of what I write starts as an irritation of my own — a downloads
-folder that nobody has ever seen twice the same way, a rename that needed
-sixty clicks, a clipboard that forgets everything the moment I close it.
+folder that nobody has ever seen twice the same way, a rename that took far too
+many clicks, a clipboard that forgets everything the moment I close it.
 
-Everything here is MIT licensed, has tests, and has a README that tells you
-what it does **and what it doesn't**.
+Everything here is MIT licensed. Where there is code there are tests, and a
+README that says what it does **and what it doesn't**.
 
 ### Now
 
@@ -37,11 +37,12 @@ what it does **and what it doesn't**.
 ### How I work
 
 - **Never surprise the user.** Preview before you act, and make every action
-  undoable. A file mover that deletes something once has lost forever.
+  undoable. A file mover that deletes something once never earns that trust
+  back.
 - **Ship the test with the fix.** A bug report is a test that hasn't been
   written down yet.
-- **Write down the limits.** Every project has a *Known limitations* section,
-  because a README that only lists strengths is an advertisement.
+- **Write down the limits.** A README that only lists strengths is an
+  advertisement, so the limitations get their own section.
 - **Small surface, no dependencies** where I can manage it — a tool that
   installs in one line is a tool people actually try.
 
@@ -60,9 +61,9 @@ fixing an issue the maintainers already agreed was real:
 
 ```python
 # kritagya.py
-tools_shipped = 5
-fixes_upstream = 5
-status = "still learning, less than last year"
+projects = 6          # the six listed above
+fixes_upstream = 5    # open pull requests in other people's code
+status = "still learning"
 ```
 
 ---
