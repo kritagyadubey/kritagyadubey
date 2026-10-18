@@ -48,21 +48,25 @@ README that says what it does **and what it doesn't**.
 
 ### Contributing upstream
 
-I'd rather send the fix than file a complaint. These are open right now, each
-fixing an issue the maintainers already agreed was real:
+I'd rather send the fix than file a complaint. Three have been merged, and
+five more are waiting on review:
 
-| Pull request | Fix |
-|--------------|-----|
-| [numpy/numpy-financial#167](https://github.com/numpy/numpy-financial/pull/167) | `fv` sized its output buffer from `rate` alone, so an integer rate truncated the result and made `ipmt`/`ppmt` raise on a 0% loan |
-| [arsenetar/dupeguru#1431](https://github.com/arsenetar/dupeguru/pull/1431) | Scanning a directory loop (Windows junction / symlink) blew the recursion limit — now walked iteratively with cycle detection |
-| [osmose-qa/osmose-backend#2838](https://github.com/osmose-qa/osmose-backend/pull/2838) | The unexpected-symbol check flagged emoji in free-text tags like `description`, not just in names |
-| [petercorke/bdsim#121](https://github.com/petercorke/bdsim/pull/121) | `oodebug` wrappers hid the real operator signatures from the generated API docs |
-| [mgedmin/dozer#22](https://github.com/mgedmin/dozer/pull/22) | Debug pages were served unauthenticated — added optional HTTP Basic auth with constant-time comparison |
+| Pull request | Status | Fix |
+|--------------|--------|-----|
+| [osmose-qa/osmose-backend#2839](https://github.com/osmose-qa/osmose-backend/pull/2839) | **Merged** | `TagRemove_Incompatibles` rejected `aeroway=jet_bridge` with `highway=footway`, a pairing used by about half of those objects |
+| [osmose-qa/osmose-backend#2838](https://github.com/osmose-qa/osmose-backend/pull/2838) | **Merged** | The unexpected-symbol check flagged emoji in free-text tags like `description`, not just in names |
+| [petercorke/bdsim#121](https://github.com/petercorke/bdsim/pull/121) | **Merged** | `oodebug` wrappers hid the real operator signatures from the generated API docs |
+| [numpy/numpy-financial#167](https://github.com/numpy/numpy-financial/pull/167) | Open | `fv` sized its output buffer from `rate` alone, so an integer rate truncated the result and made `ipmt`/`ppmt` raise on a 0% loan |
+| [arsenetar/dupeguru#1431](https://github.com/arsenetar/dupeguru/pull/1431) | Open | Scanning a directory loop (Windows junction / symlink) blew the recursion limit — now walked iteratively with cycle detection |
+| [mgedmin/dozer#22](https://github.com/mgedmin/dozer/pull/22) | Open | Debug pages were served unauthenticated — added optional HTTP Basic auth with constant-time comparison |
+| [PyCQA/docformatter#397](https://github.com/PyCQA/docformatter/pull/397) | Open | Splitting a multi-sentence summary stranded the rest of it under a stray blank line, glued to the description |
+| [kuzmoyev/google-calendar-simple-api#212](https://github.com/kuzmoyev/google-calendar-simple-api/pull/212) | Open | A `timezone` passed alongside timezone-aware datetimes was written into the `TZID` label without converting them |
 
 ```python
 # kritagya.py
-projects = 6          # the six listed above
-fixes_upstream = 5    # open pull requests in other people's code
+projects = 6            # the six listed above
+merged_upstream = 3     # pull requests other maintainers have accepted
+open_upstream = 5       # waiting on review
 status = "still learning"
 ```
 
