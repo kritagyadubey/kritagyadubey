@@ -3,59 +3,50 @@
 <h1 align="center">Kritagya Dubey</h1>
 
 <p align="center">
-  <b>Python developer.</b> I build small tools that fix everyday annoyances,<br>
-  and send fixes upstream to the open-source projects I rely on.
+  <b>Python developer.</b> I build small tools that remove friction from everyday work,<br>
+  and I send fixes upstream when the software I rely on has a gap.
 </p>
 
 ---
 
-I'm self-taught and I learn by shipping: break it, read the traceback, fix it,
-repeat. Most of what I write starts as an irritation of my own — a downloads
-folder that nobody has ever seen twice the same way, a rename that took far too
-many clicks, a clipboard that forgets everything the moment I close it.
+I’m self-taught and I learn by shipping. I break things, read the traceback, fix the issue, and repeat until the tool feels reliable enough to keep.
 
-Everything here is MIT licensed. Where there is code there are tests, and a
-README that says what it does **and what it doesn't**.
+Most of what I build starts as a personal annoyance: a folder that never stays organized, a rename task that takes too many clicks, a clipboard that forgets everything the moment I close it.
 
-### Now
+## What I’m working on
 
-- **Building** — small Python tools, one annoyance at a time
-- **Maintaining** — bug fixes upstream where the software I use has a gap
-- **Exploring** — HTML and CSS next to Python, and Git beyond `push`/`pull`
+- Building small Python tools that solve real, boring problems
+- Fixing upstream bugs where the software I use is missing a useful behavior
+- Exploring HTML, CSS, and Git beyond the basics of `push` and `pull`
 
-### Selected work
+## Selected work
 
 | Project | What it is |
 |---------|------------|
-| [**EzSort**](https://github.com/kritagyadubey/EzSort) | Sorts a messy folder into categories — CLI and desktop app, zero dependencies, preview first, undo everything. |
-| [**EzRename**](https://github.com/kritagyadubey/EzRename) | Batch-renames files with a live preview and one-click undo. GUI and CLI for Windows. |
-| [**Easy Clipboard Manager**](https://github.com/kritagyadubey/Easy-Clipboard-Manager) | A local-first clipboard history for Windows. Search, snippets, global hotkey — nothing ever leaves your machine. |
-| [**TreeMark**](https://github.com/kritagyadubey/TreeMark) | Prints any project as a tree: plain, Markdown or emoji. Standard library only. `pip install treemark` |
-| [**awesome-tools**](https://github.com/kritagyadubey/awesome-tools) | A directory of 1,026 genuinely free, open-source and free-tier tools, with a searchable static web app. |
-| [**AI Prompt Vault**](https://github.com/kritagyadubey/AI-Prompt-Vault) | 162 prompt enhancers across 14 categories. Copy, paste, refine. |
+| [**EzSort**](https://github.com/kritagyadubey/EzSort) | A folder sorter with a preview-first flow and undo support. CLI + desktop app. |
+| [**EzRename**](https://github.com/kritagyadubey/EzRename) | Batch renaming for files with live preview and one-click undo. GUI and CLI for Windows. |
+| [**Easy Clipboard Manager**](https://github.com/kritagyadubey/Easy-Clipboard-Manager) | A local-first clipboard history tool for Windows with search, snippets, and hotkeys. |
+| [**TreeMark**](https://github.com/kritagyadubey/TreeMark) | Prints any project as a tree in plain, Markdown, or emoji output. Standard library only. |
+| [**awesome-tools**](https://github.com/kritagyadubey/awesome-tools) | A curated directory of free and free-tier tools, paired with a searchable static web app. |
+| [**AI Prompt Vault**](https://github.com/kritagyadubey/AI-Prompt-Vault) | A collection of prompt enhancers across categories for copy, paste, and refinement workflows. |
 
-### How I work
+## How I work
 
-- **Never surprise the user.** Preview before you act, and make every action
-  undoable. A file mover that deletes something once never earns that trust
-  back.
-- **Ship the test with the fix.** A bug report is a test that hasn't been
-  written down yet.
-- **Write down the limits.** A README that only lists strengths is an
-  advertisement, so the limitations get their own section.
-- **Small surface, no dependencies** where I can manage it — a tool that
-  installs in one line is a tool people actually try.
+- **No surprises.** I prefer preview-first actions and reversible changes.
+- **Fix the bug with the test.** A bug report is a test that has not been written down yet.
+- **Document the limits.** A README that only lists strengths is marketing, not guidance.
+- **Keep the surface area small.** If a tool can stay lightweight and dependency-free, it usually works better.
 
-### Contributing upstream
+## Upstream contribution
 
-I'd rather send the fix than file a complaint. Some of it has been merged,
-the rest is waiting on review.
+I’d rather send the fix than complain about the problem. Some of those fixes have been merged; the rest are still waiting on review.
 
-```python
-# kritagya.py
-projects = 6            # the six listed above
-status = "still learning"
-```
+## Principles
+
+- Small tools, not giant systems
+- Clear behavior over clever abstractions
+- Real user value over polished theory
+- Ship the thing, learn from it, improve it
 
 ---
 
