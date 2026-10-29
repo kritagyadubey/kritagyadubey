@@ -13,6 +13,19 @@ I’m self-taught and I learn by shipping. I break things, read the traceback, f
 
 Most of what I build starts as a personal annoyance: a folder that never stays organized, a rename task that takes too many clicks, a clipboard that forgets everything the moment I close it.
 
+## AI in My Workflow
+
+I use AI as a tool to explore unfamiliar concepts, learn new things, and make development easier. I also use it to help maintain and improve some of my projects, especially when it comes to repetitive tasks, debugging, and keeping things up to date.
+
+Some projects where AI is part of my workflow:
+
+- [**awesome-tools**](https://github.com/kritagyadubey/awesome-tools) — Automated website checks, periodic updates, and maintaining the GitHub Pages deployment.
+- [**AI-Prompt-Vault**](https://github.com/kritagyadubey/AI-Prompt-Vault) — Organizing, refining, and maintaining a collection of useful AI prompts.
+- [**EzSort**](https://github.com/kritagyadubey/EzSort) — Improving existing features, fixing bugs, and refining the overall user experience.
+
+AI is part of how I learn and build. I use it to work more efficiently, understand things I'm unfamiliar with, and keep improving my projects.
+
+
 ## What I’m working on
 
 - Building small Python tools that solve real, boring problems
