@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/hero-art.png" width="495" alt="Illustration of Spider-Man and Spider-Gwen sitting side by side under a small heart">
+  <img src="assets/hero-wide.png" width="700" alt="Illustration of Spider-Man and Spider-Gwen sitting side by side under a small heart">
 </p>
 
 <h1 align="center">Kritagya Dubey</h1>
