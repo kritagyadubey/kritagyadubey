@@ -1,4 +1,6 @@
-![Dark terminal panel reading ">>> import kritagya" beside a grey and blue K monogram](assets/hero.svg)
+<p align="center">
+  <img src="assets/hero.png" width="100%" alt="Illustration of Spider-Man and Spider-Gwen sitting side by side under a small heart">
+</p>
 
 <h1 align="center">Kritagya Dubey</h1>
 
